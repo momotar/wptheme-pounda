@@ -1,0 +1,1 @@
+/** * Pounda - v0.1.0 * * https://pounda.nagoya/ * * Copyright 2016, Natsuki Hashimoto (https://pounda.nagoya/) * Released under the GNU General Public License v2 or later */(function($){})(jQuery);

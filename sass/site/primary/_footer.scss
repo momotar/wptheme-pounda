@@ -1,0 +1,14 @@
+footer.site-footer {
+	margin-top: 80px;
+	padding: 40px;
+	background: #36454F;
+	.site-info {
+		max-width: $size__site-max-width;
+		margin: 0 auto;
+		text-align: left;
+		color: #999;
+		a {
+			color: #fff;
+		}
+	}
+}

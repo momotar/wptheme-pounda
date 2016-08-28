@@ -1,0 +1,29 @@
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+}
+.site-title a, .site-title a:visited {
+	font-family: Doppio One;
+	font-size: $font__size-site-title;
+	color: black;
+}
+
+body.single .post h2 {
+	margin-top: 80px;
+	margin-left: -40px;
+	margin-right: -40px;
+	padding: 20px 40px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.post h3 {
+	display: inline-block;
+	//margin-bottom: 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.post h4::before {
+	margin-right: 10px;
+	font-family: FontAwesome;
+	content: '\f0a3';
+	color: #22443A;
+}

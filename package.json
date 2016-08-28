@@ -1,0 +1,21 @@
+{
+  "name": "pounda",
+  "title": "Pounda",
+  "description": "Pounda theme based on Underscores",
+  "version": "0.1.0",
+  "homepage": "https://pounda.nagoya/",
+  "author": {
+    "name": "Natsuki Hashimoto",
+    "url": "https://pounda.nagoya/"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-jshint": "^1.12.0",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-replace": "^0.5.0"
+  },
+  "keywords": []
+}
